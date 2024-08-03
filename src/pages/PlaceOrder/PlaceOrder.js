@@ -1,5 +1,6 @@
 import React from 'react'
 import './PlaceOrder.css'
+import getTotalCartAmount from '../Cart/Cart'
 const PlaceOrder = () => {
     return (
         <>
